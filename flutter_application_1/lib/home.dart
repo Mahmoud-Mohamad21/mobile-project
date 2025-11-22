@@ -63,7 +63,7 @@ class _HomeState extends State<Home> {
           child: Column(
             children: [
               const Text(
-                "Enter Amount need to convert",
+                "Enter Amount to convert",
                 style: TextStyle(fontSize: 22),
               ),
 
